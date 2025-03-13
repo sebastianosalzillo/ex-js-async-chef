@@ -21,3 +21,4 @@ async function getChefBirthday(id) {
 }
 
 getChefBirthday(1).then(birthDate => console.log("Data di nascita dello chef:", birthDate));
+   
